@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPaysTauxNatalite.Api", "TDDPaysTauxNatalite.Api\TDDPaysTauxNatalite.Api.csproj", "{833D9E85-2E1F-487A-BC0B-F5F8D51BFAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPaysTauxNatalite.Tests", "TDDPaysTauxNatalite.Tests\TDDPaysTauxNatalite.Tests.csproj", "{4995EE49-CBFB-4FE4-A8F8-1717BA6F4413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833D9E85-2E1F-487A-BC0B-F5F8D51BFAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833D9E85-2E1F-487A-BC0B-F5F8D51BFAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833D9E85-2E1F-487A-BC0B-F5F8D51BFAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833D9E85-2E1F-487A-BC0B-F5F8D51BFAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4995EE49-CBFB-4FE4-A8F8-1717BA6F4413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995EE49-CBFB-4FE4-A8F8-1717BA6F4413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995EE49-CBFB-4FE4-A8F8-1717BA6F4413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995EE49-CBFB-4FE4-A8F8-1717BA6F4413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
